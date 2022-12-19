@@ -1,3 +1,3 @@
-# buildspace 
+# Chat with Elon
 ### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+Get Direct Advice from Elon Musk: Unlock the Secrets of Success from the World's Most Innovative Entrepreneur
